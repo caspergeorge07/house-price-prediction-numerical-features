@@ -196,7 +196,7 @@ jupyter notebook
 
 Open:
 ```text
-notebooks/ndubuaku_george_house_price_assignment.ipynb
+notebooks/Ndubuaku_Ekwueme_notebook.ipynb
 ```
 
 ---
